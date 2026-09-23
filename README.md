@@ -109,7 +109,7 @@ I’m currently developing deeper knowledge in:
 
 ## 🤝 Connect With Me
 
-* LinkedIn: Add your LinkedIn profile URL here
+* LinkedIn: www.linkedin.com/in/dayan-ganganath-4970a7394
 * GitHub: @dayanganganath
 
 ---
