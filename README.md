@@ -1,6 +1,6 @@
 # 👨‍💻 Dayan Ganganath
 
-<h2 align="center">Software Engineering Undergraduate | Full-Stack Developer</h2>
+<h2 align="center">Software Engineering Undergraduate | Full-Stack & DevOps Developer</h2>
 
 <p align="center">
   Building practical and scalable software solutions
