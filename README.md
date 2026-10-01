@@ -91,11 +91,19 @@ Technologies and tools I use or explore through projects:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayanganganath&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Dayan's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanganganath&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most used repository languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=dayanganganath&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 </p>
+
+## 📈 Most Used Languages
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dayanganganath&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanganganath&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanganganath&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ## 🏆 GitHub Trophies
