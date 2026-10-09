@@ -14,9 +14,10 @@
 
 ## 👨‍💻 About Me
 
-I'm building practical software projects while developing my skills in Java, Spring Boot, React, SQL, and modern development tools. I enjoy turning real workflows into useful applications.
+I'm building practical software projects while developing my skills in Java, Spring Boot, Python, Django, React, SQL, and modern development tools. I enjoy turning real workflows into useful applications.
 
-- 🔭 Current project: [Construction Project Management System](https://github.com/dayanganganath/construction-project-management-system)
+- 🔭 Current projects: [Construction Project Management System](https://github.com/dayanganganath/construction-project-management-system) and [OpsPilot](https://github.com/dayanganganath/OpsPilot)
+- 🐍 OpsPilot: building the Django backend foundation for a deployment, service monitoring, and incident management platform.
 - 🌱 Learning: TypeScript, Spring Security, automated testing, GitHub Actions, and cloud deployment
 - 🎯 Focus: full-stack development and backend engineering
 
@@ -46,6 +47,10 @@ Technologies and tools I use or explore through projects:
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Backend & Databases**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
@@ -78,6 +83,8 @@ Technologies and tools I use or explore through projects:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-343B42?style=flat-square)
 
+**Planned for OpsPilot:** PostgreSQL, Celery, Redis, and a React + TypeScript frontend; Docker Compose and GitHub Actions integration will follow.
+
 </details>
 
 ## 🚀 Featured Projects
@@ -85,6 +92,7 @@ Technologies and tools I use or explore through projects:
 | Project | Description | Stack |
 | --- | --- | --- |
 | [Construction Project Management System](https://github.com/dayanganganath/construction-project-management-system) | In development: a system for construction project and task workflows. | Java · Spring Boot · React · MySQL |
+| [OpsPilot](https://github.com/dayanganganath/OpsPilot) | In development: Django backend foundation with a custom user model and admin setup. Planned features include deployment tracking, service monitoring, and incident management. | Python · Django · Django REST Framework · SQLite |
 | [Ceylon Spices Brand](https://github.com/dayanganganath/ceylon-spices-brand) | Brand website project. | Next.js |
 | [E-COM-WEB](https://github.com/dayanganganath/E-COM-WEB) | React web project. | React · Vite |
 
