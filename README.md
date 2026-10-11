@@ -14,9 +14,10 @@
 
 ## 👨‍💻 About Me
 
-I'm building practical software projects while developing my skills in Java, Spring Boot, Python, Django, React, SQL, and modern development tools. I enjoy turning real workflows into useful applications.
+I'm building practical software projects while developing my skills in Java, Spring Boot, Python, Django, JavaScript, React, Node.js, Express, SQL, and modern development tools. I enjoy turning real workflows into useful applications.
 
-- 🔭 Current projects: [Construction Project Management System](https://github.com/dayanganganath/construction-project-management-system) and [OpsPilot](https://github.com/dayanganganath/OpsPilot)
+- 🔭 Current projects: [TaskFlow](https://github.com/dayanganganath/TaskFlow), [Construction Project Management System](https://github.com/dayanganganath/construction-project-management-system) and [OpsPilot](https://github.com/dayanganganath/OpsPilot)
+- ✅ TaskFlow: React login/register screens, an Express REST API, JWT authentication, project ownership checks, and PostgreSQL running through Docker Compose.
 - 🐍 OpsPilot: building the Django backend foundation for a deployment, service monitoring, and incident management platform.
 - 🌱 Learning: TypeScript, Spring Security, automated testing, GitHub Actions, and cloud deployment
 - 🎯 Focus: full-stack development and backend engineering
@@ -55,11 +56,17 @@ Technologies and tools I use or explore through projects:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Cloud, Development & Design Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -79,7 +86,6 @@ Technologies and tools I use or explore through projects:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-343B42?style=flat-square)
 
@@ -87,10 +93,23 @@ Technologies and tools I use or explore through projects:
 
 </details>
 
+## ✅ Skills Demonstrated in TaskFlow
+
+- REST API development with Node.js and Express
+- React forms, state management, and API integration with Fetch
+- JWT authentication, bcrypt password hashing, and login rate limiting
+- Authorization checks for access to user-owned projects and tasks
+- PostgreSQL schema design, relationships, and parameterized SQL queries
+- Docker Compose database setup with a persistent volume and health check
+- Git version control, environment configuration, and excluding secrets from commits
+
+**Next for TaskFlow:** task management UI, automated tests, application Docker multi-stage builds, GitHub Actions, staging/production deployment, and deployment notifications.
+
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [TaskFlow](https://github.com/dayanganganath/TaskFlow) | In development: task management app with registration/login, protected project and task APIs, and a React project dashboard. Automated CI/CD and cloud deployment are planned. | JavaScript · React · Vite · Node.js · Express · PostgreSQL · Docker Compose |
 | [Construction Project Management System](https://github.com/dayanganganath/construction-project-management-system) | In development: a system for construction project and task workflows. | Java · Spring Boot · React · MySQL |
 | [OpsPilot](https://github.com/dayanganganath/OpsPilot) | In development: Django backend foundation with a custom user model and admin setup. Planned features include deployment tracking, service monitoring, and incident management. | Python · Django · Django REST Framework · SQLite |
 | [Ceylon Spices Brand](https://github.com/dayanganganath/ceylon-spices-brand) | Brand website project. | Next.js |
