@@ -29,6 +29,25 @@ All three projects are active parts of my portfolio; their order does not indica
 | [OpsPilot](https://github.com/dayanganganath/OpsPilot) | Operations platform with a Django backend foundation, custom user model, and admin integration. Deployment tracking and monitoring are planned. | Python · Django · Django REST Framework · SQLite |
 | [TaskFlow](https://github.com/dayanganganath/TaskFlow) | Task management application with account registration, login, protected project/task APIs, and a React project dashboard. Development is ongoing. | JavaScript · React · Node.js · Express · PostgreSQL · Docker Compose |
 
+## ⭐ Project Highlights
+
+### [Construction Project Management System](https://github.com/dayanganganath/construction-project-management-system)
+- **Construction workflows:** client/project records, BOQs, daily progress, and labour management modules.
+- **Financial tracking:** client and subcontractor payments, contractor ledgers, and a payment register with project/date filters.
+- **User workspaces:** separate admin/manager, client, and supervisor areas, including supervisor material requests.
+
+### [OpsPilot](https://github.com/dayanganganath/OpsPilot)
+- **Custom user model:** Django's `AbstractUser` extended as the project's account model.
+- **Admin integration:** user management registered with Django's `UserAdmin`.
+- **Backend structure:** separate account/application modules, an initial user migration, and Django project configuration.
+
+### [TaskFlow](https://github.com/dayanganganath/TaskFlow)
+- **Account security:** registration/login, bcrypt password hashing, JWT tokens, and authentication rate limiting.
+- **Protected APIs:** project and task creation/listing with project ownership checks and input validation.
+- **Full-stack foundation:** React authentication screens and project dashboard, plus PostgreSQL in Docker Compose with persistent storage.
+
+*Highlights describe the current codebase. OpsPilot deployment tracking/monitoring and TaskFlow automated CI/CD/cloud deployment remain planned.*
+
 ## ✅ Skills Demonstrated Across Projects
 
 | Project | Backend & data | Application development |
