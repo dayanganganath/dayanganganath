@@ -14,13 +14,30 @@
 
 ## 👨‍💻 About Me
 
-I'm building practical software projects while developing my skills in Java, Spring Boot, Python, Django, JavaScript, React, Node.js, Express, SQL, and modern development tools. I enjoy turning real workflows into useful applications.
+I'm developing three ongoing projects across Java, Python, and JavaScript, building experience in full-stack development, backend engineering, databases, and DevOps.
 
-- 🔭 Current projects: [TaskFlow](https://github.com/dayanganganath/TaskFlow), [Construction Project Management System](https://github.com/dayanganganath/construction-project-management-system) and [OpsPilot](https://github.com/dayanganganath/OpsPilot)
-- ✅ TaskFlow: React login/register screens, an Express REST API, JWT authentication, project ownership checks, and PostgreSQL running through Docker Compose.
-- 🐍 OpsPilot: building the Django backend foundation for a deployment, service monitoring, and incident management platform.
-- 🌱 Learning: TypeScript, Spring Security, automated testing, GitHub Actions, and cloud deployment
-- 🎯 Focus: full-stack development and backend engineering
+- 🎯 Focus: practical applications, clear APIs, and reliable development workflows
+- 🌱 Learning: automated testing, TypeScript, GitHub Actions, and cloud deployment
+
+## 🚀 Current Projects
+
+All three projects are active parts of my portfolio; their order does not indicate priority.
+
+| Project | Current development | Stack |
+| --- | --- | --- |
+| [Construction Project Management System](https://github.com/dayanganganath/construction-project-management-system) | Construction workflow application with client and project management, financial records, daily progress, and user portals. Development is ongoing. | Java · Spring Boot · React · MySQL |
+| [OpsPilot](https://github.com/dayanganganath/OpsPilot) | Operations platform with a Django backend foundation, custom user model, and admin integration. Deployment tracking and monitoring are planned. | Python · Django · Django REST Framework · SQLite |
+| [TaskFlow](https://github.com/dayanganganath/TaskFlow) | Task management application with account registration, login, protected project/task APIs, and a React project dashboard. Development is ongoing. | JavaScript · React · Node.js · Express · PostgreSQL · Docker Compose |
+
+## ✅ Skills Demonstrated Across Projects
+
+| Project | Backend & data | Application development |
+| --- | --- | --- |
+| Construction Project Management System | Spring Boot REST APIs, layered services/repositories, and relational data management | React pages, construction workflows, and user access controls |
+| OpsPilot | Django project configuration, custom user model, and database migrations | Django admin integration, modular app structure, and backend foundation |
+| TaskFlow | Express REST APIs, PostgreSQL queries, and JWT authentication | React forms and API integration, ownership checks, and Docker Compose database setup |
+
+**Shared development practices:** Git version control, project organization, and local development workflows. Skills reflect each project's current implementation; planned capabilities are not presented as completed work.
 
 ## 🛠️ Tech Stack
 
@@ -89,29 +106,14 @@ Technologies and tools I use or explore through projects:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-343B42?style=flat-square)
 
-**Planned for OpsPilot:** PostgreSQL, Celery, Redis, and a React + TypeScript frontend; Docker Compose and GitHub Actions integration will follow.
+**Learning goals across the portfolio:** automated testing, CI/CD, containerized applications, and cloud deployment.
 
 </details>
 
-## ✅ Skills Demonstrated in TaskFlow
-
-- REST API development with Node.js and Express
-- React forms, state management, and API integration with Fetch
-- JWT authentication, bcrypt password hashing, and login rate limiting
-- Authorization checks for access to user-owned projects and tasks
-- PostgreSQL schema design, relationships, and parameterized SQL queries
-- Docker Compose database setup with a persistent volume and health check
-- Git version control, environment configuration, and excluding secrets from commits
-
-**Next for TaskFlow:** task management UI, automated tests, application Docker multi-stage builds, GitHub Actions, staging/production deployment, and deployment notifications.
-
-## 🚀 Featured Projects
+## 📁 Other Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [TaskFlow](https://github.com/dayanganganath/TaskFlow) | In development: task management app with registration/login, protected project and task APIs, and a React project dashboard. Automated CI/CD and cloud deployment are planned. | JavaScript · React · Vite · Node.js · Express · PostgreSQL · Docker Compose |
-| [Construction Project Management System](https://github.com/dayanganganath/construction-project-management-system) | In development: a system for construction project and task workflows. | Java · Spring Boot · React · MySQL |
-| [OpsPilot](https://github.com/dayanganganath/OpsPilot) | In development: Django backend foundation with a custom user model and admin setup. Planned features include deployment tracking, service monitoring, and incident management. | Python · Django · Django REST Framework · SQLite |
 | [Ceylon Spices Brand](https://github.com/dayanganganath/ceylon-spices-brand) | Brand website project. | Next.js |
 | [E-COM-WEB](https://github.com/dayanganganath/E-COM-WEB) | React web project. | React · Vite |
 
