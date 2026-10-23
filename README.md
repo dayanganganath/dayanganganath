@@ -55,6 +55,9 @@ All three projects are active parts of my portfolio; their order does not indica
 | Construction Project Management System | Spring Boot REST APIs, layered services/repositories, and relational data management | React pages, construction workflows, and user access controls |
 | OpsPilot | Django project configuration, custom user model, and database migrations | Django admin integration, modular app structure, and backend foundation |
 | TaskFlow | Express REST APIs, PostgreSQL queries, and JWT authentication | React forms and API integration, ownership checks, and Docker Compose database setup |
+| [CodeAlpha Docker Web Server](https://github.com/dayanganganath/CodeAlpha_DockerWebServer) | Nginx static hosting in a custom Docker image | HTML/CSS page, Dockerfile, port mapping, container lifecycle, and logs |
+| [CodeAlpha Gradle Java App](https://github.com/dayanganganath/CodeAlpha_GradleJava) | Java application and JUnit addition test | Gradle Wrapper, Groovy build configuration, dependency management, and build verification |
+| [CodeAlpha Jenkins Remoting](https://github.com/dayanganganath/CodeAlpha_JenkinsRemoting) | Separate Jenkins controller and Docker agent connected over WebSocket | Label-based Groovy pipeline, shell commands, artifact archiving, and fingerprinting |
 
 **Shared development practices:** Git version control, project organization, and local development workflows. Skills reflect each project's current implementation; planned capabilities are not presented as completed work.
 
@@ -71,6 +74,9 @@ Technologies and tools I use or explore through projects:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
+![Shell Commands](https://img.shields.io/badge/Shell_Commands-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -99,10 +105,18 @@ Technologies and tools I use or explore through projects:
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Cloud, Development & Design Tools**
+**DevOps, Build & Testing**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![JUnit Jupiter](https://img.shields.io/badge/JUnit_Jupiter-25A162?style=flat-square&logo=junit5&logoColor=white)
+
+**Recent hands-on practice:** Dockerfile image builds and Nginx hosting; Gradle Wrapper builds and JUnit assertions; Jenkins controller–agent setup over WebSocket, Groovy pipelines, and artifact archiving.
+
+**Cloud, Development & Design Tools**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -121,7 +135,6 @@ Technologies and tools I use or explore through projects:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-343B42?style=flat-square)
 
